@@ -1,0 +1,58 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/jumia/Downloads/BinaryCalculator/target/classes;C:/Users/jumia/Downloads/BinaryCalculator/target/test-classes;C:/Users/jumia/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/jumia/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/jumia/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/jumia/Downloads/BinaryCalculator/src/test/java;C:/Users/jumia/Downloads/BinaryCalculator/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jumia/Downloads/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/jumia/Downloads/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/Users/jumia/Downloads/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+'C:/Users/jumia/Downloads/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
+C:\Users\jumia\Downloads\BinaryCalculator\target\classes = 1706467048478
+C:\Users\jumia\Downloads\BinaryCalculator\target\test-classes = 1706467049205
+C:\Users\jumia\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1705890988810
+C:\Users\jumia\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1678925390710
+C:\Users\jumia\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar = 1705893714133
+C:\Users\jumia\Downloads\BinaryCalculator\src\test\java = 1705890693247
+C:\Users\jumia\Downloads\BinaryCalculator\target\generated-test-sources\test-annotations = 1706467048863
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\allclasses-index.html = 1706467093021
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\allpackages-index.html = 1706467093057
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\copy.svg = 1706467093328
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\element-list = 1706467092714
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\help-doc.html = 1706467093247
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\index-all.html = 1706467093187
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\index.html = 1706467093211
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\jquery-ui.overrides.css = 1706467093765
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\member-search-index.js = 1706467093111
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\module-search-index.js = 1706467093083
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1706467092959
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\package-search-index.js = 1706467093092
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\script.js = 1706467093315
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\search.js = 1706467093341
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\stylesheet.css = 1706467093288
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\tag-search-index.js = 1706467093128
+C:\Users\jumia\Downloads\BinaryCalculator\target\site\testapidocs\type-search-index.js = 1706467093100
